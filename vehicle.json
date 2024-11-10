@@ -1,0 +1,32 @@
+{
+  "vehicles": [
+    {
+      "brand": "BMW",
+      "model": "12SD",
+      "production_year": 1989,
+      "convertible": false,
+      "id": "1234"
+    },
+    {
+      "id": "3214",
+      "brand": "Lexus",
+      "model": "GB400",
+      "production_year": 2001,
+      "convertible": false
+    },
+    {
+      "id": "2000",
+      "brand": "Toyota",
+      "model": "A5400",
+      "production_year": 2010,
+      "convertible": false
+    },
+    {
+      "brand": "AUDI",
+      "model": "TS400",
+      "production_year": 1967,
+      "convertible": true,
+      "id": "6661"
+    }
+  ]
+}
