@@ -19,5 +19,5 @@ This project is a Python-based client-server application that allows users to ma
 
 ## Usage
 
-To run the application, provide the server address, port number (optional), database name (optional), and car ID (optional). 
+To run the application, first run the server, incase of node.js, run json-server --watch vehicle.json. Once th server is running in cmd provide the server address, port number (optional), database name (optional), and car ID (optional). 
 For example: write in command prompt (python vintage_car_db.py http://localhost)
